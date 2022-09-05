@@ -1,4 +1,6 @@
 {
+    "name": "gurmesoft/ecommerce-integration",
+    "description": "Shopify, Ecommerce gibi e-ticaret istek atmak için oluşturuldu",
     "minimum-stability": "dev-master",
     "license": "MIT",
     "autoload": {
