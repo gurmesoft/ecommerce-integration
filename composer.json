@@ -1,4 +1,11 @@
 {
+    "minimum-stability": "dev-master",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gurmesoft\\MarketplaceIntegration\\": "src/"
+        }
+    },
     "require": {
         "phpclassic/php-shopify": "^1.1"
     }
